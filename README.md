@@ -9,7 +9,18 @@ http://jmlr.org/papers/volume17/15-239/15-239.pdf
 
 Modified from [dainis-boumber](https://github.com/dainis-boumber/tf-dann-py3)'s github
 
-This DANN is suitable for Amazon reviews data.
+## Data: Amazon reviews data
+
+From: [data](https://github.com/GRAAL-Research/domain_adversarial_neural_network)
+
+domain | train size | test size
+-|-|-
+books | 2000 | 4465
+dvd | 2000 | 3586
+kitchen | 2000 | 5945
+electronics | 2000 | 5681
+
+## Code
 
 The code has been refactored and simplified.
 
